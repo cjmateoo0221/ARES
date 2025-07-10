@@ -1,0 +1,13 @@
+{
+    "Repository Name": "AngleHony/WKTools",
+    "Creation Date": "2021-10-30",
+    "Verdict": "Yes",
+    "AI Notes": "This repository contains a comprehensive red team tool (WKTools) with extensive offensive security capabilities including process manipulation, kernel module inspection, hook detection/removal, and system monitoring features that are explicitly designed for security testing and penetration activities.",
+    "Stars": 294,
+    "URL": "https://www.github.com/AngleHony/WKTools",
+    "TTP": "Defense Evasion",
+    "Usage": "WKTools is a comprehensive Windows system security and analysis tool supporting Windows 7, 10, and 11. It provides extensive functionality for process management, kernel module analysis, hook detection, and system monitoring. Key features include detecting hidden processes, manipulating process handles, detecting and restoring various hooks (SSDT, inline, kernel), managing registry entries, controlling system services, and analyzing network connections. The tool is regularly updated with bug fixes and support for newer Windows versions.",
+    "Has IOC": "No",
+    "Query": "repo:AngleHony/WKTools ",
+    "Query Author": "DarrelTristanV"
+}

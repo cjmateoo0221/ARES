@@ -1,0 +1,13 @@
+{
+    "Repository Name": "SaadAhla/dark-kill",
+    "Creation Date": "2025-06-10",
+    "Verdict": "Yes",
+    "AI Notes": "This repository contains a functional rootkit designed specifically for offensive security purposes that can kill EDR (Endpoint Detection and Response) processes, which is a clear red team capability for evading security controls.",
+    "Stars": 79,
+    "URL": "https://www.github.com/SaadAhla/dark-kill",
+    "TTP": "Defense Evasion",
+    "Usage": "Dark-kill is a rootkit solution designed to permanently terminate EDR (Endpoint Detection and Response) processes by exploiting Process Creation Blocking Kernel Callback Routine registration and ZwTerminateProcess functionality. The project consists of both a user-mode client and a kernel-mode driver that require Visual Studio 2022 and Windows Driver Kit for compilation. The driver must be deployed in a test environment with test signing enabled through specific commands in an elevated command prompt.",
+    "Has IOC": "No",
+    "Query": "repo:SaadAhla/dark-kill",
+    "Query Author": "DarrelTristanV"
+}

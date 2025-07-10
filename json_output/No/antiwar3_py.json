@@ -1,0 +1,13 @@
+{
+    "Repository Name": "antiwar3/py",
+    "Creation Date": "2019-12-11",
+    "Verdict": "No",
+    "AI Notes": "The README is extremely minimal, containing only a reference to reporting bugs, a development status note, OS compatibility information, and an image, without any clear description of functionality, installation steps, usage examples, or indicators that this is a standalone red team tool.",
+    "Stars": 474,
+    "URL": "https://www.github.com/antiwar3/py",
+    "TTP": "N/A",
+    "Usage": "This repository appears to be a tool in development that supports Windows operating systems from Windows 7 to Windows 11 (24H2). The repository contains minimal information about its functionality, with only a screenshot image included. There is a note requesting users to report bugs through GitHub issues, indicating it is an active project seeking community feedback.",
+    "Has IOC": "No",
+    "Query": "repo:antiwar3/py",
+    "Query Author": "DarrelTristanV"
+}
